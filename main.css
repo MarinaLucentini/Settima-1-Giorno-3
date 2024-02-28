@@ -33,7 +33,7 @@ article > div {
   text-align: justify;
   width: 100%;
 }
-article img {
+article iframe {
   width: 100%;
   border-radius: 1em;
 }
